@@ -2,7 +2,6 @@ streamlit
 pandas
 folium
 streamlit_folium
-streamlit
 plotly
 Pillow
 io
