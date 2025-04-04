@@ -1,0 +1,11 @@
+streamlit
+pandas
+folium
+streamlit
+plotly
+PIL
+io
+base64
+numpy
+requests
+scipy
