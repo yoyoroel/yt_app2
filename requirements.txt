@@ -4,7 +4,6 @@ folium
 streamlit_folium
 plotly
 Pillow
-BytesIO
 base64
 numpy
 requests
