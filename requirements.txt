@@ -9,3 +9,4 @@ base64
 numpy
 requests
 scipy
+openpyxl
