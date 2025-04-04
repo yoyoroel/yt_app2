@@ -3,7 +3,7 @@ pandas
 folium
 streamlit
 plotly
-PIL
+Pillow
 io
 base64
 numpy
